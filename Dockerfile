@@ -1,4 +1,5 @@
 FROM ubuntu
+MAINTAINER Ian Blenke <ian@blenke.com>
 
 RUN apt-get update \
   && apt-get -y install git supervisor python-pip \
