@@ -1,4 +1,4 @@
-== ianblenke/mock-s3
+## ianblenke/mock-s3
 
 For local development, [mock-s3](https://github.com/jserver/mock-s3) makes for a useful tiny S3 service.
 
