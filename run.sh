@@ -130,4 +130,4 @@ stderr_events_enabled=true
 EOF
 
 # start supervisord
-/usr/bin/supervisord -c /etc/supervisor/supervisord.conf
+exec /usr/bin/supervisord -c /etc/supervisor/supervisord.conf
